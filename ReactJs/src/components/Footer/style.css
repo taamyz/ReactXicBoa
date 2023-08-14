@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: center; 
+    margin-top: 1rem; 
+    color: #1c1c1c;
+    font-family: "SharpSans-Bold", sans-serif;
+    font-size: 12px;
+  }
+  

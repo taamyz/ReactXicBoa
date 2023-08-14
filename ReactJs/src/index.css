@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "SharpSans-Bold";
+  src: url(../finalProject/font/SharpSansDispNo1-Bold.ttf);
+}
+
+@font-face {
+  font-family: "SharpSans-Medium";
+  src: url(../finalProject/font/SharpSansDispNo1-Medium.ttf);
+}
+
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #616161;
+}
+
+input, button, li { 
+  font-family: "SharpSans-Bold", sans-serif;
+}

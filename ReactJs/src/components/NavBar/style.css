@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "SharpSans-Bold";
+  src: url(../finalProject/font/SharpSansDispNo1-Bold.ttf);
+}
+
+@font-face {
+  font-family: "SharpSans-Medium";
+  src: url(../finalProject/font/SharpSansDispNo1-Medium.ttf);
+}
+
+.container {
+  height: 150px;
+  font-family: "SharpSans-Bold", sans-serif;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+}
+
+.categories {
+  display: flex;
+  flex-direction: column;
+  font-family: "SharpSans-Bold", sans-serif;
+}
